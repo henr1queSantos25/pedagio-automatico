@@ -4,13 +4,12 @@
 // === BIBLIOTECAS DA PASTA LIB ===
 #include "hcSR04.h" 
 #include "sg90.h"
+#include "matriz.h"
 
 // === DEFINIÇÕES DE PINOS ===
 #define TRIGGER 16 // Pino trigger do sensor ultrassônico
 #define ECHO 17 // Pino echo do sensor ultrassônico
 
-// == BIBLIOTECAS PARA O DISPLAY LED ==
-#include "matriz.h"
 
 
 
